@@ -1,0 +1,5 @@
+/img
+/sample
+__pycache__
+
+*.log
